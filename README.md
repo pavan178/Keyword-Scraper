@@ -15,7 +15,7 @@ pip install selenium beautifulsoup4 newspaper3k wordcloud pandas transformers ma
 - 📰 Extracts article details from obtained URLs.
 - 📊 Generates word cloud visualization of article texts.
 
-Notes
+## Notes
 - 🔧 Ensure ChromeDriver is installed and its path is set correctly.
 - 🛠️ Adjust Chrome options such as headless mode as needed.
 - 🌍 The script may require additional setup for non-English languages.
